@@ -1,0 +1,25 @@
+{
+  "name": "carbontax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.4.4",
+    "mocha": "^6.1.4",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "recharts": "^1.6.2",
+    "semantic-ui-react": "^0.87.2",
+    "solc": "^0.4.17",
+    "victory": "^32.3.0",
+    "web3": "^1.0.0-beta.37"
+  }
+}
