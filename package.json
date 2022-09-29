@@ -16,10 +16,10 @@
     "next-routes": "^1.4.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "recharts": "^1.6.2",
+    "recharts": "^2.1.14",
     "semantic-ui-react": "^0.87.2",
     "solc": "^0.4.17",
-    "victory": "^32.3.0",
+    "victory": "^36.6.8",
     "web3": "^1.0.0-beta.37"
   }
 }
