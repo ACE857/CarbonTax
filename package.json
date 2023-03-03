@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "ganache-cli": "^6.4.4",
-    "mocha": "^6.1.4",
-    "next": "^4.1.4",
+    "mocha": "^6.2.3",
+    "next": "^13.2.3",
     "next-routes": "^1.4.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
